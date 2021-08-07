@@ -1,9 +1,5 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
-# My SIH Project
-
-<img src="Thumbnail.jpg" width="300">
-
 # Ankuran
 
 Low cost and affordable smart autonomous remote monitored agriculture system of seed sowing with depth and spacing control.
